@@ -1,6 +1,6 @@
 /getdata
 
-#pip install pyTelegramBotAPI requests beautifulsoup4
+pip install pyTelegramBotAPI requests beautifulsoup4
 
 CHAT_ID Отрицательное число - это групповые чаты, положительное - личные переписки
 
